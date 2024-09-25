@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\mingw64\\bin\\g++.exe",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "workbench.editor.wrapTabs": false,
+    // "workbench.editor.showTabs": true,
+    // "workbench.editor.enablePreview": true
+}
